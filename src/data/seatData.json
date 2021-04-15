@@ -1,7 +1,7 @@
 [ 
     {
     "rowName": "", 
-    "seatRow": [
+    "rowData": [
       {"seatNumber":"1","price":0},
       {"seatNumber":"2","price":0},
       {"seatNumber":"3","price":0},
@@ -19,7 +19,7 @@
   ,
   {
     "rowName": "A", 
-    "seatRow": [
+    "rowData": [
       {"seatNumber":"A1","price":75000,"isBooked":false},
       {"seatNumber":"A2","price":75000,"isBooked":false},
       {"seatNumber":"A3","price":75000,"isBooked":false},
@@ -36,7 +36,7 @@
   },
   {
     "rowName": "B", 
-    "seatRow": [
+    "rowData": [
       {"seatNumber":"B1","price":75000,"isBooked":false},
       {"seatNumber":"B2","price":75000,"isBooked":false},
       {"seatNumber":"B3","price":75000,"isBooked":false},
@@ -53,7 +53,7 @@
   },
   {
     "rowName": "C", 
-    "seatRow": [
+    "rowData": [
       {"seatNumber":"C1","price":75000,"isBooked":false},
       {"seatNumber":"C2","price":75000,"isBooked":false},
       {"seatNumber":"C3","price":75000,"isBooked":false},
@@ -69,7 +69,7 @@
     ] 
   }, {
     "rowName": "D", 
-    "seatRow": [
+    "rowData": [
       {"seatNumber":"D1","price":75000,"isBooked":false},
       {"seatNumber":"D2","price":75000,"isBooked":false},
       {"seatNumber":"D3","price":75000,"isBooked":false},
@@ -85,7 +85,7 @@
     ] 
   },{
     "rowName": "E", 
-    "seatRow": [
+    "rowData": [
       {"seatNumber":"E1","price":75000,"isBooked":false},
       {"seatNumber":"E2","price":75000,"isBooked":false},
       {"seatNumber":"E3","price":75000,"isBooked":false},
@@ -101,7 +101,7 @@
     ] 
   },{
     "rowName": "F", 
-    "seatRow": [
+    "rowData": [
       {"seatNumber":"F1","price":75000,"isBooked":false},
       {"seatNumber":"F2","price":75000,"isBooked":false},
       {"seatNumber":"F3","price":75000,"isBooked":false},
@@ -117,7 +117,7 @@
     ] 
   },{
     "rowName": "G", 
-    "seatRow": [
+    "rowData": [
       {"seatNumber":"G1","price":75000,"isBooked":false},
       {"seatNumber":"G2","price":75000,"isBooked":false},
       {"seatNumber":"G3","price":75000,"isBooked":false},
@@ -133,7 +133,7 @@
     ] 
   },{
     "rowName": "H", 
-    "seatRow": [
+    "rowData": [
       {"seatNumber":"H1","price":75000,"isBooked":false},
       {"seatNumber":"H2","price":75000,"isBooked":false},
       {"seatNumber":"H3","price":75000,"isBooked":false},
@@ -149,7 +149,7 @@
     ] 
   },{
     "rowName": "D", 
-    "seatRow": [
+    "rowData": [
       {"seatNumber":"D1","price":75000,"isBooked":false},
       {"seatNumber":"D2","price":75000,"isBooked":false},
       {"seatNumber":"D3","price":75000,"isBooked":false},
@@ -165,7 +165,7 @@
     ] 
   },{
     "rowName": "I", 
-    "seatRow": [
+    "rowData": [
       {"seatNumber":"I1","price":75000,"isBooked":false},
       {"seatNumber":"I2","price":75000,"isBooked":false},
       {"seatNumber":"I3","price":75000,"isBooked":false},
@@ -181,7 +181,7 @@
     ] 
   },{
     "rowName": "J", 
-    "seatRow": [
+    "rowData": [
       {"seatNumber":"J1","price":75000,"isBooked":false},
       {"seatNumber":"J2","price":75000,"isBooked":false},
       {"seatNumber":"J3","price":75000,"isBooked":false},
